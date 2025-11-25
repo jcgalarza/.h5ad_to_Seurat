@@ -4,4 +4,4 @@ Although many researchers find Seurat more intuitive and user-friendly, especial
 
 It is worth noting, however, that starting your analysis in Python using Scanpy can offer long-term advantages. Python is widely regarded as the preferred ecosystem for machine learning and artificial intelligence, and early familiarity with Python-based tools can make later transitions into advanced algorithmic or ML-driven approaches significantly smoother.
 
-This toolset ensures you can work in Seurat when required—without losing the benefits of upstream Scanpy workflows—and helps maintain flexibility across computational ecosystems as your project evolves.
+This toolset ensures you can work in Seurat when required, without losing the benefits of upstream Scanpy workflows, and helps maintain flexibility across computational ecosystems as your project evolves.
